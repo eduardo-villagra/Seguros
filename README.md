@@ -2,7 +2,7 @@
 
 Para este estudio se siguió la siguiente estructura:
 
-- Leer Datos y analisis descriptivo
+- Leer Datos y análisis descriptivo
 - Ingeniería de variables
 - Machine Learning
 
